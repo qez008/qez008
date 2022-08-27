@@ -3,7 +3,6 @@
 <a href="https://github.com/qez008/qez008">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qez008&show_icons=true&hide=stars,contribs&count_private=true&line_height=30" />
 </a>
-
 <a href="https://github.com/qez008/qez008">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qez008&,html,tex&layout=compact&langs_count=6" />
 </a>
